@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a fullstack project bootstrapped with google-map-react
 
 ## Getting Started
 
-Make sure NODEJS is installed prior to starting
+Make sure NODEJS and Python3 are installed prior to starting
 
 Firstly, run the Backend server:
 
