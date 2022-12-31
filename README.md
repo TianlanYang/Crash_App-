@@ -21,10 +21,11 @@ If NOT, open [http://localhost:3000](http://localhost:3000) with your browser to
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about React, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- https://reactjs.org/ - learn about React features and UX/UI.
+- https://www.w3schools.com/whatis/whatis_react.asp - React brief introduction 
+- https://reactjs.org/tutorial/tutorial.html - React Tutorials
 
 To learn more about Recharts, a Redefined chart library built with React and D3, please take a look at the following resources:
 
