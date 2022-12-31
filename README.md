@@ -30,7 +30,7 @@ To learn more about Recharts, a Redefined chart library built with React and D3,
 
 - https://recharts.org/en-US/examples
 
-To learn more about FastAPI, a Redefined chart library built with React and D3, please take a look at the FastAPI official resources and documents:
+To learn more about FastAPI, a Web framework for developing RESTful APIs in Python, please take a look at the FastAPI official resources and documents:
 
 - https://fastapi.tiangolo.com/
 
