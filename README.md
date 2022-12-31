@@ -34,3 +34,8 @@ To learn more about FastAPI, a Web framework for developing RESTful APIs in Pyth
 
 - https://fastapi.tiangolo.com/
 
+To learn more about Postgres (& Postico 2), which used as a free and open-source relational database management system emphasizing extensibility and SQL compliance, please check the following links:
+
+- https://www.postgresql.org/
+- https://eggerapps.at/postico2/
+
