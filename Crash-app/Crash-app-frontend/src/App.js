@@ -65,7 +65,7 @@ const App = () => {
     <Wrapper>
       <SubWrapper1 className="father">
         <div className="box1">
-          <h3>Crash event map</h3>
+          <h3>Crash Event Map</h3>
         </div>
         {/* <div className="box2">
           <h4 className="content">box</h4>
@@ -90,12 +90,12 @@ const App = () => {
       </SubWrapper1>
       <SubWrapper2>
         <div className="box3">
-          <h3>Crash event occurrence counts by city</h3>
+          <h3>Crash Event Occurrence Counts by City</h3>
         </div>
         <Information places={places}></Information>
         <SubWrapper3>
           <div className="box4">
-            <h3>Crash event severity</h3>
+            <h3>Crash Event Severity</h3>
           </div>
           <div className="box5">
             <img src={logo} alt="logo" className="login-img" />

@@ -11,6 +11,8 @@ import {
   ResponsiveContainer,
 } from "recharts";
 
+const barColors = ["#1f77b4", "#ff7f0e"]
+
 const Example = ({ places }) => {
   console.log(places);
   let city_list = places.map((item) => item.city);
@@ -32,7 +34,7 @@ const Example = ({ places }) => {
   return (
     <ResponsiveContainer width="100%" height="100%">
       <BarChart width={150} height={40} data={city_count_list}>
-        <Bar dataKey="value" fill="#8884d8" />
+        <Bar dataKey="value" fill="#FFBD33" />
         <XAxis dataKey="name" />
       </BarChart>
     </ResponsiveContainer>
