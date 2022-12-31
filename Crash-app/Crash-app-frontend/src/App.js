@@ -95,7 +95,7 @@ const App = () => {
         <Information places={places}></Information>
         <SubWrapper3>
           <div className="box4">
-            <h3>Crash event Severity</h3>
+            <h3>Crash event severity</h3>
           </div>
           <div className="box5">
             <img src={logo} alt="logo" className="login-img" />
